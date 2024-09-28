@@ -20,3 +20,11 @@ In this section, we will cover the basics of provisioning an EC2 instance, IAM U
 - Apply Your Configuration ***terraform apply***
 
 - The instance is created Successfully.
+
+  ## IAM User
+
+- Create a file with .tf extension.
+- Start creating a Terraform configuration file that defines the AWS provider and the details for your IAM User.
+- As you have already specified the provider before no need to provide it again.
+- Apply the configuration.
+- The example user is created successfully.
